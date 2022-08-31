@@ -1,0 +1,12 @@
+export { default as Navbar } from "./Navbar/Navbar";
+export { default as InfoSection } from "./InfoSection/InfoSection";
+export { default as TemplateSection } from "./TemplateSection/TemplateSection";
+export { default as Pricing } from "./Pricing/Pricing";
+export { default as Footer } from "./Footer/index";
+export { default as CartItems } from "./CartItems/CartItems";
+export { default as CourseItem } from "./CourseItem/index";
+export { default as Filters } from "./Filters/index";
+export { default as Details } from "./Details/Details";
+export { default as ContactSection } from "./ContactSection/ContactSection";
+export { default as TestimonialsSection } from "./TestimonialsSection/TestimonialsSection";
+export { default as Cookies } from "./Cookies/Cookies";
